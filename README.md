@@ -31,10 +31,10 @@
 
 ## ER-діаграма
 
-<img width="974" height="688" alt="image" src="https://github.com/user-attachments/assets/9a5f8489-bbf0-44ee-803f-cbc5ba29834e" />
+<img width="789" height="601" alt="image" src="https://github.com/user-attachments/assets/5f2a0590-65d0-44f0-9eda-03d41f92c684" />
+
 
 ## Реалізація на SQL
 
-<img width="974" height="640" alt="image" src="https://github.com/user-attachments/assets/1d44e533-0148-4754-8a47-4b9ed93bb62a" />
+<img width="1059" height="787" alt="image" src="https://github.com/user-attachments/assets/d17fcc4a-97ec-4887-8533-2873f03cd051" />
 
-<img width="974" height="509" alt="image" src="https://github.com/user-attachments/assets/c1e813d2-f97a-4c9d-9198-35773a4e4833" />
